@@ -9,6 +9,7 @@
 		<form
 			style="padding: 10px; background: #eee; border: 3px solid #aaa; margin: 50px">
 			<input type="text" value="text here..." />
+			<input type="text" value="text there..." />
 			<input type="password" value="someinvisibletext" />
 			<input type="submit" value="Send" />
 		</form>
